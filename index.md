@@ -12,4 +12,5 @@ This is where I'll put my projects.
 
 # Contact
 
-This is where I'll put my contact information. 
+[Bulgarian Dialectology as Living Tradition](https://bulgariandialectology.org/):
+Between October 2022 and May of 2023, I worked under [Dr. Ronelle Alexander](https://slavic.berkeley.edu/people/ronelle-alexander/) on a project for documenting dialect diversity in Bulgarian via the use of a transcribed spoken corpus of interviews with native speakers across Bulgaria. My job included labeling and tagging syntactic and semantic information from these interviews.
