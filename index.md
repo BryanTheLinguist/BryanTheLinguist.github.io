@@ -13,5 +13,6 @@ Between October 2022 and May of 2023, I worked under [Dr. Ronelle Alexander](htt
 
 
 # Contact
-[Email](bmi9198@gmail.com)
-[LinkedIn](www.linkedin.com/in/bryan-m-isaac)
+Email:bmi9198@gmail.com
+
+LinkedIn: www.linkedin.com/in/bryan-m-isaac
