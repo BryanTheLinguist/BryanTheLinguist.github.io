@@ -4,7 +4,7 @@ title: Bryan Isaac - Linguist
 
 # About
 
-This is my GitHub Pages site using the Slate theme.
+In Progress
 
 # Projects
 
@@ -16,3 +16,6 @@ Between October 2022 and May of 2023, I worked under [Dr. Ronelle Alexander](htt
 Email:bmi9198@gmail.com
 
 LinkedIn: www.linkedin.com/in/bryan-m-isaac
+
+# CV
+In Progress
